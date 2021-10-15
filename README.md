@@ -1,5 +1,5 @@
 ### Hi, I am Loukas 👋
-I am an evolutionary biologist who is working in the interface between experimental evolution and data science, and loves coding in R. I am currently a postdoc at the [Rainey Lab](http://micropop.evolbio.mpg.de/) at the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en) in Plön, Germany. I am passionate about making science open, and for this, I am sharing every bit of a helpful code that I write  :computer: .
+I am an evolutionary biologist who is working in the interface between experimental evolution :man_scientist: and data science :man_technologist:, and loves coding in R. I am currently a postdoc at the [Rainey Lab](http://micropop.evolbio.mpg.de/) at the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en) in Plön, Germany. I am passionate about making science open, and for this, I am sharing every bit of a helpful code that I write.
 <!--
 **loukesio/loukesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
