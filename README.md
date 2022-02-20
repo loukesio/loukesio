@@ -19,11 +19,13 @@ I am an evolutionary biologist who is working in the interface between experimen
   </div>
 </h1>
 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loukesio&theme=light&hide_langs_below=1" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=loukesio&show_icons=true&theme=light&line_height=27" alt="Loukas's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=loukesio&show_icons=true&theme=light&line_height=27" alt="Loukas's github stats"/>
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loukesio&layout=compact)](https://github.com/loukesio/github-readme-stats)
 
  <details>
  <summary>:sauropod:  Most Used Languages </summary>
