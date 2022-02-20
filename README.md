@@ -12,11 +12,18 @@
 
 I am an evolutionary biologist who is working in the interface between experimental evolution :man_scientist: and data science :man_technologist:, and loves coding in R. I am currently a postdoc at the [Rainey Lab](http://micropop.evolbio.mpg.de/) at the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en) in Plön, Germany. I am passionate about making science open, and for this, I am sharing every bit of a helpful code that I write.
 
-  
+<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+
+
 
 <div align="center">
   <br>
-  <a href="https://www.buymeacoffee.com/Loukas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 32px !important;width: 140px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  <a href="https://www.buymeacoffee.com/Loukas" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
   <br><br>
   </div>
 </h1>
