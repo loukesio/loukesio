@@ -10,7 +10,7 @@
 <a href="https://twitter.com/loukesio"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/loukas-theodosiou-a690ab91/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
-I am a data scientist working in the interface between experimental evolution :man_scientist: and data science :man_technologist:, and I love coding in R, python and Javascript. I am currently a senior bioinformatics scientist at the [Rainey Lab](http://micropop.evolbio.mpg.de/) at the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en) in Plön, Germany. I am passionate about making science open, so I am sharing every bit of helpful code I write.
+I am a data scientist working in the interface between mathematical modelling :man_scientist: and bioinformatics :man_technologist:, and I love coding in R, python and Javascript. I am currently a senior bioinformatics scientist at the [Rainey Lab](http://micropop.evolbio.mpg.de/) at the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en) in Plön, Germany. I am passionate about making science open, so I am sharing every bit of helpful code I write.
 
 <img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
