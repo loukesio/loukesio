@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loukesio&label=Views&color=blue&style=plastic" alt="loukesio" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=loukesio&label=Profile+Views&color=ffcc00&style=for-the-badge" alt="Profile View Counter" /> 
+</p>
+
 <h1 style="font-weight:normal" align="center">
   &nbsp;Hi, I'm Loukas! :wave:&nbsp;
 </h1>
